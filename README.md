@@ -1,5 +1,5 @@
 # ✊🏻✌🏻✋🏻묵찌빠 게임
-1. 프로젝트 인원(2인)
+1. 프로젝트 인원: [Brody](https://github.com/seunghyunCheon), [Christy](https://github.com/christy-hs-lee)
 2. 프로젝트 기간: 2022.12.26~2022.12.29
 3. Grouped Rules
     - 스크럼
