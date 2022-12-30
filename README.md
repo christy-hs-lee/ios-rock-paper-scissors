@@ -162,6 +162,11 @@ func 반복문(_ n: Int) -> Int {
     }
     return num
 }
+
+func 꼬리재귀함수(_ n: Int, _ acc: Int) -> Int {
+    guard n > 0 else { return acc }
+    return 꼬리재귀함수(n - 1, acc + n)
+}
 ```
 
 
