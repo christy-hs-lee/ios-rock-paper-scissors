@@ -24,10 +24,10 @@
 - [타임라인](#타임라인)
 - [순서도](#순서도)
 - [기능 설명](#기능-설명)
-- [트러블 슈팅](#고민했던-점과-트러블-슈팅)
-- [참고 자료](#참고-자료)
 - [키워드](#키워드)
+- [트러블 슈팅](#고민했던-점과-트러블-슈팅)
 - [팀회고](#팀회고)
+- [참고 자료](#참고-자료)
 ## <span style="color: #007bff"/>프로젝트 소개</span>
 ```
 사용자의 입력값을 받아 컴퓨터와 가위바위보 게임을 실시합니다!
@@ -89,6 +89,17 @@
 ---
 
 
+
+## <span style="color: #007bff"/>키워드</span>
+- `Optional`, `guard`, `switch`, `inout`, `~=`, `rawValue`,`Result`
+- `반복문`, `재귀함수`, `꼬리재귀함수`
+- `기능 분리`
+- `git`
+    - `커밋 단위`
+    - `커밋 규칙`
+- `컨벤션`, `네이밍`
+- `magic literal`, `enum`, `namespace`, `static`
+- `Debug`, `breakpoint`, `watch`, `TimeInterval`
 
 
 
@@ -196,29 +207,6 @@ func 꼬리재귀함수(_ n: Int, _ acc: Int) -> Int {
 
 
 
-## <span style="color: #007bff"/>키워드</span>
-- `Optional`, `guard`, `switch`, `inout`, `~=`, `rawValue`,`Result`
-- `반복문`, `재귀함수`, `꼬리재귀함수`
-- `기능 분리`
-- `git`
-    - `커밋 단위`
-    - `커밋 규칙`
-- `컨벤션`, `네이밍`
-- `magic literal`, `enum`, `namespace`, `static`
-- `Debug`, `breakpoint`, `watch`, `TimeInterval`
-
-
-## <span style="color: #007bff"/>참고 자료</span>
-- [공식문서](https://www.swift.org/)
-- [커밋 규칙](http://karma-runner.github.io/latest/dev/git-commit-msg.html)
-- [Debug](https://meetup.nhncloud.com/posts/315)
-- [컨벤션, 네이밍](https://www.swift.org/documentation/api-design-guidelines/)
-- [Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
-
-
-
-
-
 ## <span style="color: #007bff"/>팀회고</span>
 
 ### 우리팀이 잘한 점
@@ -241,5 +229,15 @@ Brody -> Christy
 - 문제해결능력이 뛰어납니다. 의문점이 생기고 질문을 하게되면 필요한 자료들을 잘 선별하여 올바르게 해석해서 잘 알려주었습니다. 
 - 의견을 피력할 때와 받아들일 때 항상 배려하려고 하시는 모습을 보였습니다. 덕분에 제 의견에 대해 망설임없이 표현할 수 있었습니다.
 - 영어 해석을 정말 잘하십니다. 단순히 번역을 하는 것이 아닌 문장의 의미를 파악하는 능력이 뛰어납니다.
+
+
+## <span style="color: #007bff"/>참고 자료</span>
+- [공식문서](https://www.swift.org/)
+- [커밋 규칙](http://karma-runner.github.io/latest/dev/git-commit-msg.html)
+- [Debug](https://meetup.nhncloud.com/posts/315)
+- [컨벤션, 네이밍](https://www.swift.org/documentation/api-design-guidelines/)
+- [Enumerations](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
+
+
 
 
